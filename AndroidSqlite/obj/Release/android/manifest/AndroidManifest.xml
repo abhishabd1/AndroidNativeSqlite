@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AndroidSqlite.AndroidSqlite" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <application android:label="AndroidSqlite" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="InsertActivity" android:name="md5dd7bf41b397a7f65ea0572784915d735.InsertActivity" />
+    <activity android:icon="@drawable/icon" android:label="AndroidSqlite" android:name="md5dd7bf41b397a7f65ea0572784915d735.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="SelectActivity" android:name="md5dd7bf41b397a7f65ea0572784915d735.SelectActivity" />
+    <activity android:label="UpdateActivity" android:name="md5dd7bf41b397a7f65ea0572784915d735.UpdateActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AndroidSqlite.AndroidSqlite.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

@@ -1,0 +1,17 @@
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\AndroidSqlite.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\Java.Interop.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\Mono.Android.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\mscorlib.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Core.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Threading.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Runtime.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Collections.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Collections.Concurrent.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Diagnostics.Debug.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Reflection.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Linq.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Runtime.InteropServices.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Runtime.Extensions.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Reflection.Extensions.dll
+D:\DemoPractice\AndroidSqlite\AndroidSqlite\obj\Release\android\assets\System.Runtime.Serialization.dll
